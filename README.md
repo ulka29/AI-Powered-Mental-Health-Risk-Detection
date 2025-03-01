@@ -1,9 +1,8 @@
-# Depression_Detection
 
-# Mental Wellness Project
+# Mental Health Risk Detection
 
 ## Objective
-This project aims to classify social media posts as **suicidal or non-suicidal** to detect individuals struggling with mental health issues and provide timely intervention.
+This project aims to classify texts as **suicidal or non-suicidal** to detect individuals struggling with mental health issues and provide timely intervention.
 
 ---
 
